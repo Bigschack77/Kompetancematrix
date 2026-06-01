@@ -1,0 +1,6 @@
+Status;Farve;Betydning;Anbefalet brug
+Ja;Grøn;Kurset er gennemført og gyldigt;Bruges når kursus er taget og ikke udløbet
+Nej;Ingen farve;Kurset er ikke gennemført;Bruges når medarbejderen ikke har kurset
+Planlagt;Gul;Kurset er planlagt;Bruges når kursus er booket eller aftalt
+Udløbet;Orange/Rød;Kurset skal fornyes;Bruges når certifikat eller kursusdato er overskredet
+Ikke relevant;Grå;Kurset er ikke relevant for rollen;Bruges når medarbejderen ikke behøver kurset
