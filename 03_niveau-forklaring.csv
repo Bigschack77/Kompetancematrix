@@ -1,0 +1,7 @@
+Kode;Niveau;Farve;Betydning;Beskrivelse
+0;Ingen plan;Ingen farve;Må ikke arbejde med processen;Operatøren må ikke arbejde med den pågældende proces
+1;Under oplæring;Rød;Kræver overvågning;Operatøren har fået oplæring, men arbejdet skal overvåges af erfaren operatør eller værkfører
+2;Kan arbejde selvstændigt;Grøn;Selvstændig udførelse;Operatøren kan arbejde selvstændigt og foretage egen kontrol
+3;Kan løse problemer;Blå;Selvstændig problemløsning;Operatøren kan arbejde selvstændigt og selv løse problemer i processen
+4;Kan instruere;Sort;Kan oplære andre;Operatøren har stor erfaring og kan instruere andre operatører i processen
+5;Plan for kompetenceudvikling;Gul;Udviklingsmål;Der er en plan for at udvikle kompetencen
